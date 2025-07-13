@@ -1,1 +1,5 @@
+Google colab file link:
 https://colab.research.google.com/drive/1Eh0Ds3ZdSs3vqPZPjX9Rv72ibRgMWCse#scrollTo=zdvc93LQOXdY
+
+Drive File (including all the datasets, colab file and explanatory video):
+https://drive.google.com/drive/folders/1DdpM3IGrKoeYRXjIzAZEKEUPYRNwbFdp?usp=drive_link
